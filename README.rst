@@ -1,5 +1,10 @@
+.. image:: https://img.shields.io/pypi/v/lut-maker.svg
+    :target: https://pypi.python.org/pypi/lut-maker/
+    :alt: Latest Version
+
 .. image:: https://travis-ci.org/faymontage/lut-maker.svg?branch=master
     :target: https://travis-ci.org/faymontage/lut-maker
+    :alt: Build Status
 
 .. image:: https://raw.githubusercontent.com/faymontage/lut-maker/master/readme_images/header.jpg
   :width: 100%
