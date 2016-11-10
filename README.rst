@@ -1,3 +1,9 @@
+.. image:: https://travis-ci.org/faymontage/lut-maker.svg?branch=master
+    :target: https://travis-ci.org/faymontage/lut-maker
+
+.. image:: https://raw.githubusercontent.com/faymontage/lut-maker/master/readme_images/header.jpg
+  :width: 100%
+
 ===========
 Description
 ===========
@@ -62,7 +68,10 @@ That's it! The newly created lut.* files are ready for use. A few guides:
 - `How Do I Apply 3D LUTs in Adobe Photoshop? <https://lutify.me/knowledge-base/how-do-i-apply-3d-luts-in-adobe-photoshop/>`_
 - `Using Lookup Tables to Accelerate Color Transformations (GPU) <http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter24.html>`_
 
+Here is a LUT based on Impossible Project Color polaroid film, applied to an image in Photoshop:
 
+.. image:: https://raw.githubusercontent.com/faymontage/lut-maker/master/readme_images/photo_application.jpg
+  :width: 100%
 
 
 ===============

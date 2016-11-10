@@ -1,2 +1,3 @@
 # development requirements
-pytest
+pytest>=3.0.3
+-e .
