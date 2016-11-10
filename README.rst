@@ -33,7 +33,7 @@ Install the CLI tool from PyPi:
 
 .. code:: bash
 
-  pip install lut_maker
+  pip install lut-maker
 
 
 Step 1: Generate measurement assets
