@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='lut_maker',
-    version='0.1',
+    version='0.1.1',
     description='Generate 3D color LUTs in Adobe Cube and Pseudo-3D texture format',
     url='https://github.com/faymontage/lut-maker',
     author='Fay Montage',
